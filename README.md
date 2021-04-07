@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Rsilvestre2
+- 👀 I’m interested in learning all things javaScript.
+- 🌱 I’m currently learning front end web development.
+- 💞️ I’m looking to collaborate on beginner friendly projects to build my skills. 
